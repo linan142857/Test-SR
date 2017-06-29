@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="602a4a17-4eeb-4298-8b3f-e3d3ab6a0672" name="Test-SR" url="http://10.29.0.1">
+        <fileTransfer host="10.29.0.1" port="22" rootFolder="/home/liyulin/developments/Test-SR" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
