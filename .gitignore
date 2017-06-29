@@ -1,5 +1,7 @@
 data/
-logs/
-model/
+logs
+model
 train-data/
+*.pyc
+!src/*
 
